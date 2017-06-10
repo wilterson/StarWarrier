@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>enemyShip.png</Source>
+      <Name>enemyShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\enemyShip.xnb</Output>
+      <Time>2012-10-08T08:44:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyUFO.png</Source>
+      <Name>enemyUFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\enemyUFO.xnb</Output>
+      <Time>2012-10-08T08:44:45-03:00</Time>
+    </Item>
+    <Item>
+      <Source>laserGreen.png</Source>
+      <Name>laserGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\laserGreen.xnb</Output>
+      <Time>2012-10-08T08:45:31-03:00</Time>
+    </Item>
+    <Item>
+      <Source>laserGreenShot.png</Source>
+      <Name>laserGreenShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\laserGreenShot.xnb</Output>
+      <Time>2012-10-08T08:45:23-03:00</Time>
+    </Item>
+    <Item>
+      <Source>laserRed.png</Source>
+      <Name>laserRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\laserRed.xnb</Output>
+      <Time>2012-10-08T08:45:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>laserRedShot.png</Source>
+      <Name>laserRedShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\laserRedShot.xnb</Output>
+      <Time>2012-10-08T08:45:51-03:00</Time>
+    </Item>
+    <Item>
+      <Source>meteorBig.png</Source>
+      <Name>meteorBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\meteorBig.xnb</Output>
+      <Time>2012-10-08T08:46:45-03:00</Time>
+    </Item>
+    <Item>
+      <Source>meteorSmall.png</Source>
+      <Name>meteorSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\meteorSmall.xnb</Output>
+      <Time>2012-10-08T08:46:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\player.xnb</Output>
+      <Time>2012-10-08T08:46:01-03:00</Time>
+    </Item>
+    <Item>
+      <Source>playerDamaged.png</Source>
+      <Name>playerDamaged</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\playerDamaged.xnb</Output>
+      <Time>2012-10-08T08:44:37-03:00</Time>
+    </Item>
+    <Item>
+      <Source>playerLeft.png</Source>
+      <Name>playerLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\playerLeft.xnb</Output>
+      <Time>2012-10-08T08:44:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>playerRight.png</Source>
+      <Name>playerRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\playerRight.xnb</Output>
+      <Time>2012-10-08T08:45:05-03:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundColor.png</Source>
+      <Name>backgroundColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\backgroundColor.xnb</Output>
+      <Time>2012-10-08T08:49:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>starBackground.png</Source>
+      <Name>starBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\starBackground.xnb</Output>
+      <Time>2012-10-08T08:51:21-03:00</Time>
+    </Item>
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\back.xnb</Output>
+      <Time>2017-05-03T20:26:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_explosion.wav</Source>
+      <Name>player_explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\player_explosion.xnb</Output>
+      <Time>2017-03-26T10:59:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_shot.mp3</Source>
+      <Name>player_shot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\player_shot.xnb</Output>
+      <Extra>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\player_shot.wma</Extra>
+      <Time>2017-03-26T10:30:37-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3D6AB39F-AD40-4DFF-A24E-99C332B350A3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrierContent\</RootDirectory>
+      <LoggerRootDirectory>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\CLOUD\Dropbox\TUIUTI\semestre5\Jogos Digitais\game\StarWarrier\StarWarrier\StarWarrier\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-05-11T19:14:02.8420086-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
